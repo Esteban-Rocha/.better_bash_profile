@@ -7,7 +7,7 @@ Handy Aliases for MACOSX Bash
 Via GIT
 
 ```
-git clone https://github.com/Esteban-Rocha/.better_bash_profile.git ~/.
+cd ~ && git clone https://github.com/Esteban-Rocha/.better_bash_profile.git
 ```
 
 ## History
